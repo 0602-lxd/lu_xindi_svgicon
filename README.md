@@ -2,7 +2,7 @@
 
 ## Description
 1055-01-20s SVG Icon Set
-This is my SVG Assignment. My SVG icon theme  is the monster's family.I created 10 icons about monsters, each icon can be hovered to change color and select ID.
+This is my SVG Assignment. My SVG icon theme is the monster's family.I created 10 icons about monsters, each icon can be hovered to change color and select ID.
 
 ## Installation
 There is no installation process for this repo.Simply pulldown and start working!
