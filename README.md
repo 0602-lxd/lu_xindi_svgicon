@@ -1,4 +1,4 @@
-# lu_xindi_svgicon
+# lu_xindi_svg
 
 ## Description
 1055-01-20s SVG Icon Set
